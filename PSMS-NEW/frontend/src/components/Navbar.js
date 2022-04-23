@@ -16,7 +16,7 @@ const Navbar = ({ click }) => {
     
       <Link to="/" className="">
         <span className="logo">
-          <img src={logo} style={{ height: "40px", width: "200px" }} alt="" />
+          {/* <img src={logo} style={{ height: "40px", width: "200px" }} alt="" /> */}
         </span>
 
       </Link>
